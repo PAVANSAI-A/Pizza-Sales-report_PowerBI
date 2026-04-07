@@ -31,7 +31,7 @@ This project analyzes pizza sales data to uncover key business insights using Po
 
 ## 📊 Dashboard Preview
 
-
+https://github.com/PAVANSAI-A/Pizza-Sales-report_PowerBI/blob/1e470c8f666e4ff6d60c86bad517fec4544847ed/sales_report_dashboard.png
 
 ## 🚀 Project Highlights
 
